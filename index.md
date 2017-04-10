@@ -1,3 +1,11 @@
+## Learn JavaScript
+
+[Try JavaScript](https://www.javascript.com/)
+
+[Mozilla Tutorials and Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[Explanation of Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mivor/js-resources/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
